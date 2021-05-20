@@ -1,0 +1,32 @@
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csprojAssemblyReference.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit_MVVM.Properties.Resources.resources
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csproj.GenerateResource.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csproj.CoreCompileInputs.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM_MarkupCompile.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM_MarkupCompile.lref
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.exe.config
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.exe
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.pdb
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.g.resources
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.exe
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.pdb
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\App.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Views\MainWindow.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\Kit MVVM\obj\Debug\Views\MainWindow.baml
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.exe.config
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.exe
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\bin\Debug\Kit MVVM.pdb
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csprojAssemblyReference.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Views\MainWindow.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\App.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM_MarkupCompile.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM_MarkupCompile.lref
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Views\MainWindow.baml
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.g.resources
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit_MVVM.Properties.Resources.resources
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csproj.GenerateResource.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.csproj.CoreCompileInputs.cache
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.exe
+E:\D3\2K\2h\prog\Воложанінов\Kit MVVM\Kit MVVM\obj\Debug\Kit MVVM.pdb

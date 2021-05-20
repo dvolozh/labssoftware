@@ -1,0 +1,6 @@
+E:\oop\Kit\Kit.Data\bin\Debug\Kit.Data.dll
+E:\oop\Kit\Kit.Data\bin\Debug\Kit.Data.pdb
+E:\oop\Kit\Kit.Data\obj\Debug\Kit.Data.csprojAssemblyReference.cache
+E:\oop\Kit\Kit.Data\obj\Debug\Kit.Data.csproj.CoreCompileInputs.cache
+E:\oop\Kit\Kit.Data\obj\Debug\Kit.Data.dll
+E:\oop\Kit\Kit.Data\obj\Debug\Kit.Data.pdb
